@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/PuerkitoBio/goquery v1.13.0
 	github.com/adrg/xdg v0.5.3
-	github.com/andybalholm/brotli v1.2.4
+	github.com/andybalholm/brotli v1.2.7
 	github.com/ffuf/pencode v0.0.0-20240120104927-07e33ef17d5a
 	github.com/pelletier/go-toml v1.9.5
 )
